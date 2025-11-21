@@ -25,5 +25,3 @@ Users can add, view, update, delete, and save tasks. Tasks are stored in a text 
 - Scanner Class  
 
 ---
-
-## 📂 Project Structure
